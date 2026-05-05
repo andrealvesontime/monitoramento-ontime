@@ -1,5 +1,5 @@
 {
-  "versao": "6.0",
-  "url_instalador": "https://github.com/andrealvesontime/monitoramento-ontime/releases/latest/download/INSTALADOR_MONITORAMENTO_ONTIME.exe",
-  "mensagem": "Nova versão disponível para o Monitoramento Ontime."
+  "versao": "6.1",
+  "url_instalador": "LINK_DO_NOVO_INSTALADOR_6.1",
+  "mensagem": "Nova versão sem necessidade de Excel. O HH, imagem e script agora são gerados diretamente pelo programa."
 }
