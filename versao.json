@@ -1,5 +1,5 @@
 {
-  "versao": "6.2",
-  "url_instalador": "LINK_DO_NOVO_INSTALADOR_6.2",
+  "versao": "0.0",
+  "url_instalador": "LINK_DO_NOVO_INSTALADOR_6.1",
   "mensagem": "Nova versão sem necessidade de Excel. O HH, imagem e script agora são gerados diretamente pelo programa."
 }
