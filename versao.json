@@ -1,5 +1,5 @@
 {
-  "versao": "7.0",
-  "url_instalador": "https://github.com/andrealvesontime/monitoramento-ontime/releases/download/v7.0/INSTALADOR_MONITORAMENTO_ONTIME.exe",
+  "versao": "7.2",
+  "url_instalador": "https://github.com/andrealvesontime/monitoramento-ontime/releases/download/v7.2/INSTALADOR_MONITORAMENTO_ONTIME.exe",
   "mensagem": "Nova versão disponível com correção na reabertura automática após atualização."
 }
