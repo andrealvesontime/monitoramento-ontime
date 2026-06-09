@@ -1,5 +1,5 @@
 {
-  "versao": "7.6",
-  "url_instalador": "https://github.com/andrealvesontime/monitoramento-ontime/releases/download/v7.6/INSTALADOR_MONITORAMENTO_ONTIME.exe",
-  "mensagem": "Atualização 7.6 disponível. Esta versão corrige a versão publicada anteriormente como 7.5 por engano, mantém o descarte de rotas com OZH superior a 12h, descarta Line Haul/DC/NEx, corrige SRJ3 e SES3, normaliza nomes dos grupos e ajusta o espaçamento do script HH."
+  "versao": "7.7",
+  "url_instalador": "https://github.com/andrealvesontime/monitoramento-ontime/releases/download/v7.7/INSTALADOR_MONITORAMENTO_ONTIME.exe",
+  "mensagem": "Atualização 7.7 disponível. Esta versão corrige o erro ao clicar em Enviar por ausência da biblioteca pyautogui no executável, mantendo as correções da versão 7.6."
 }
