@@ -1,5 +1,5 @@
 {
-  "versao": "7.3",
-  "url_instalador": "https://github.com/andrealvesontime/monitoramento-ontime/releases/download/v7.3/INSTALADOR_MONITORAMENTO_ONTIME.exe",
-  "mensagem": "Nova versão disponível com correção na atualização automática."
+  "versao": "7.4",
+  "url_instalador": "https://github.com/andrealvesontime/monitoramento-ontime/releases/download/v7.4/INSTALADOR_MONITORAMENTO_ONTIME.exe",
+  "mensagem": "Atualização 7.4 disponível. Esta versão corrige o filtro de rotas OZH acima de 12h, descarte de Line Haul/DC/NEx, grupos SRJ3 e SES3, normalização dos nomes dos grupos e espaçamento do script HH."
 }
